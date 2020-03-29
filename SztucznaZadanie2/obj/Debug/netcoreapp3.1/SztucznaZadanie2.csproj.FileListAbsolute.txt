@@ -1,0 +1,13 @@
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\bin\Debug\netcoreapp3.1\SztucznaZadanie2.exe
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\bin\Debug\netcoreapp3.1\SztucznaZadanie2.deps.json
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\bin\Debug\netcoreapp3.1\SztucznaZadanie2.runtimeconfig.json
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\bin\Debug\netcoreapp3.1\SztucznaZadanie2.runtimeconfig.dev.json
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\bin\Debug\netcoreapp3.1\SztucznaZadanie2.dll
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\bin\Debug\netcoreapp3.1\SztucznaZadanie2.pdb
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\obj\Debug\netcoreapp3.1\SztucznaZadanie2.csprojAssemblyReference.cache
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\obj\Debug\netcoreapp3.1\SztucznaZadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\obj\Debug\netcoreapp3.1\SztucznaZadanie2.AssemblyInfoInputs.cache
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\obj\Debug\netcoreapp3.1\SztucznaZadanie2.AssemblyInfo.cs
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\obj\Debug\netcoreapp3.1\SztucznaZadanie2.dll
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\obj\Debug\netcoreapp3.1\SztucznaZadanie2.pdb
+C:\Users\Karol Kulesza\source\repos\SztucznaZadanie2\SztucznaZadanie2\obj\Debug\netcoreapp3.1\SztucznaZadanie2.genruntimeconfig.cache
